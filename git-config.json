@@ -1,5 +1,5 @@
 {
-	"workflows": ["Certified", "Examples", "Community"],
+	"workflows": ["Community"],
 	"customizations": "customizations",
 	"snapshots": "snapshots"
 }
